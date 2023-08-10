@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://sachit12sharma:sachit@cluster1.8wj21se.mongodb.net/?retryWrites=true&w=majority",
+    "jwtSecret": "oc_myJwtSecret"
+}
