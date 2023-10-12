@@ -58,6 +58,7 @@ export default class App extends Component {
           <div className = "content">
             <AppNavbar darkMode={this.state.darkMode} toggleMode={this.toggleMode}/>   
             <Switch>
+              {/* //hello */}
               <Route exact path = "/" component = {Editor} />     
               <Route path = "/files" component = {Files} />
               <Route path = "/login" component = {Login}/>
