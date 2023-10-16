@@ -29,8 +29,8 @@ export class AppNavbar extends Component {
 
         const guestLinks = (
             <Fragment>
-                    <Nav.Link href="/register"><span className='nav-text'>Register</span></Nav.Link>
-                    <Nav.Link href="/login"><span className='nav-text'>Login</span></Nav.Link>
+                    {/* <Nav.Link href="/register"><span className='nav-text'>Register</span></Nav.Link> */}
+                    {/* <Nav.Link href="/login"><span className='nav-text'>Login</span></Nav.Link> */}
             </Fragment>
         )
 

@@ -168,9 +168,9 @@ const { theme, fontSize } = this.props.changes;
             <Button variant='outline-secondary' onClick={this.props.run}>
                 Run
             </Button>{' '}
-            <Button variant='outline-success' onClick={this.toggle}>
+            {/* <Button variant='outline-success' onClick={this.toggle}>
                 Save
-            </Button><br/><br/>
+            </Button><br/><br/> */}
             <Button variant='outline-dark' onClick={this.downloadFile} className='down-btn'>
                 Download
             </Button>{' '}
